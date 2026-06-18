@@ -42,8 +42,8 @@ function App() {
   return (
     <div className="container">
       <header>
-        <h1>CareConnect NGO</h1>
-        <p>Smart Patient Intake & Volunteer Triage Portal</p>
+        <h1>Jarurat Care</h1>
+        <p>AI-Powered Healthcare Intake Portall</p>
       </header>
 
       <div className="dashboard-grid">
