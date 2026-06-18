@@ -7,7 +7,7 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
 
   // Pointing directly to your local Spring Boot backend we tested in Postman
-  const BACKEND_URL = "https://healthcare-ngo-backend.onrender.com"; 
+  const BACKEND_URL = "https://healthcare-ngo-backend.onrender.com/api/triage"; 
 
   const handleInputChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
