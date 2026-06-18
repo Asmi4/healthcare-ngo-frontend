@@ -43,7 +43,7 @@ function App() {
     <div className="container">
       <header>
         <h1>Jarurat Care</h1>
-        <p>AI-Powered Healthcare Intake Portall</p>
+        <p>AI-Powered Healthcare Intake Portal</p>
       </header>
 
       <div className="dashboard-grid">
